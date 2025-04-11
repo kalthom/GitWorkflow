@@ -10,7 +10,7 @@ using namespace std;
     {  
         string s;
         cin>>s;
-        cout << "Hello, " << s << endl;
+        cout << "Hello umm kalthum, " << s << endl;
        
       
         return 0;
